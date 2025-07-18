@@ -56,3 +56,47 @@ monarchy_banking/
 ├── MonarchyBank.db             # Optional SQLite DB (if used)
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
+
+
+## 🚀 Getting Started
+
+1. **Clone the repository and navigate into the folder:**
+
+    ```bash
+    git clone <repository_url>
+    cd <repository_folder>
+    ```
+
+2. **Ensure Python is installed** locally and added to the system PATH.
+
+3. **Create a virtual environment (recommended):**
+
+    ```bash
+    python -m venv <virtual_env_name>
+    ```
+
+4. **Activate the virtual environment:**
+
+    - On **Windows**:
+      ```bash
+      <virtual_env_name>\Scripts\activate
+      ```
+
+    - On **macOS/Linux**:
+      ```bash
+      source <virtual_env_name>/bin/activate
+      ```
+
+5. **Install all dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+6. **Start from the main entery point as:**
+
+    ```bash
+    python main.py
+    ```
+
+---
