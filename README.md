@@ -8,8 +8,6 @@ A Python-based **Object-Oriented Programming (OOP)** project simulating a monarc
 - Custom interest mechanics  
 - A home loan system  
 
----
-
 ## 📌 Features
 
 - 🏦 **Account Types**  
@@ -34,7 +32,6 @@ A Python-based **Object-Oriented Programming (OOP)** project simulating a monarc
   - EMI deducted on **every send and receive transaction**  
   - Interest applied within EMI  
 
----
 
 ## 📂 Project Structure
 
