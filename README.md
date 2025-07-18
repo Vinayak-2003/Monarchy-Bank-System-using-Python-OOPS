@@ -1,6 +1,6 @@
 # Monarchy Banking System
 
-A Python-based **Object-Oriented Programming (OOPS)** project simulating a monarchy-style banking system. It features **Savings** and **Current** accounts, custom **interest mechanics**, a **home loan system**.
+A Python-based Object-Oriented Programming (OOPS) project simulating a monarchy-style banking system. It features Savings and Current accounts, custom interest mechanics, a home loan system.
 ---
 
 ## 📌 Features
