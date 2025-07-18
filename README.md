@@ -1,11 +1,14 @@
-# Monarchy Banking System
+# 👑 Monarchy Banking System
 
-## Introduction 
-A Python-based Object-Oriented Programming (OOPS) project simulating a monarchy-style banking system. It features:
- - Savings and Current accounts
- - Custom interest mechanics
- - A home loan system
+## 📘 Introduction
 
+A Python-based **Object-Oriented Programming (OOP)** project simulating a monarchy-style banking system. It features:
+
+- Savings and Current accounts  
+- Custom interest mechanics  
+- A home loan system  
+
+---
 
 ## 📌 Features
 
@@ -19,8 +22,9 @@ A Python-based Object-Oriented Programming (OOPS) project simulating a monarchy-
   - Balance **added manually does not earn interest**  
 
 - 💰 **Initial Account Balance**  
-  - Assigned randomly by the bank (4-digit number) for Savings Account
-  - Assigned randomly by the bank (5-digit number) for Current Account
+  - Assigned randomly by the bank:  
+    - **4-digit** for Savings Account  
+    - **5-digit** for Current Account  
 
 - ➕ **Add Funds**  
   - Maximum allowed: **4-digit number (≤ 9999)**  
@@ -28,7 +32,7 @@ A Python-based Object-Oriented Programming (OOPS) project simulating a monarchy-
 - 🏠 **Home Loan Support**  
   - Max loan amount: ₹8,00,000  
   - EMI deducted on **every send and receive transaction**  
-  - Interest applied within EMI 
+  - Interest applied within EMI  
 
 ---
 
@@ -60,8 +64,6 @@ monarchy_banking/
 ├── MonarchyBank.db             # Optional SQLite DB (if used)
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
-
----
 
 ## 🚀 Getting Started
 
