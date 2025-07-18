@@ -1,0 +1,6 @@
+[run]
+omit = 
+    */constants.py
+    */database_ops.py
+    */__init__.py
+    */conftest.py
