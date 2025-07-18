@@ -1,4 +1,4 @@
-# 👑 Monarchy Banking System
+# Monarchy Banking System
 
 ## 📘 Introduction
 
@@ -7,6 +7,8 @@ A Python-based **Object-Oriented Programming (OOP)** project simulating a monarc
 - Savings and Current accounts  
 - Custom interest mechanics  
 - A home loan system  
+
+---
 
 ## 📌 Features
 
@@ -32,6 +34,7 @@ A Python-based **Object-Oriented Programming (OOP)** project simulating a monarc
   - EMI deducted on **every send and receive transaction**  
   - Interest applied within EMI  
 
+---
 
 ## 📂 Project Structure
 
@@ -102,5 +105,3 @@ monarchy_banking/
     ```bash
     python main.py
     ```
-
----
