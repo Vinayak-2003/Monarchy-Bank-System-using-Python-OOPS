@@ -61,6 +61,7 @@ monarchy_banking/
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
 
+---
 
 ## 🚀 Getting Started
 
