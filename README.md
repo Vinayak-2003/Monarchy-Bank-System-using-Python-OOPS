@@ -64,6 +64,7 @@ monarchy_banking/
 ├── MonarchyBank.db             # Optional SQLite DB (if used)
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
+```
 
 ## 🚀 Getting Started
 
